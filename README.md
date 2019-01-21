@@ -15,7 +15,9 @@ Anuncios: Permite a los usuarios registrados informar de eventos particulares co
 
 Reglamento: Muestra las reglas del juego explicadas de forma sencilla para aprender a jugar. Es visualizable por cualquiera y actualizable solo por Administradores.
 
-Integrantes: Aitor Matilla Casanova; a.matilla@alumnos.urjc.es; @a-matillac.
+Integrantes: 
+             
+             Aitor Matilla Casanova; a.matilla@alumnos.urjc.es; @a-matillac.
 
              Ignacio Charco Iniesta; i.charco@alumnos.urjc.es; @i-charcoi.
              
